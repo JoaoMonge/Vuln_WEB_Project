@@ -4,9 +4,9 @@
 
 O objetivo deste exercício é permitir que os alunos:
 
-* Instalem e configurem uma aplicação web vulnerável em PHP e JavaScript.
-* Exploremos as vulnerabilidades intencionais incluídas no projeto com base no OWASP Top 10.
-* Aprendam a identificar, reportar e propor soluções para cada problema de segurança.
+* Instalar e configurar uma aplicação web vulnerável em PHP e JavaScript.
+* Explorar as vulnerabilidades intencionais incluídas no projeto com base no OWASP Top 10.
+* Aprender a identificar, reportar e propor soluções para cada problema de segurança.
 
 ---
 
